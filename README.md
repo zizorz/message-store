@@ -7,6 +7,7 @@
 ### How to run
 ```
 Open in Visual Studio (or similar)
+Select to run MessageStoreApplication (not IIS Express)
 Click Run
 A web page with a swagger API should open
 ```
